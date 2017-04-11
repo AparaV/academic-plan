@@ -70,16 +70,17 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2019-2020
 |                Fall Semester                   | Hrs |                         Spring Semester                         | Hrs |
 |------------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| Capstone                                       | 4   | Capstone                                                        | 4   |
-| CSCI 3434 - Theory of Computation (Core #5)    | 3   | ECON 3070 - Intermediate Microeconomic Theory                   | 3   |
-| CSCI 4555 - Compiler Construction (Core #6)    | 3   | ECON 3080 - Intermediate Microeconomic Theory                   | 3   |
-| APPM 4440 - Applied Analysis                   | 3   | ASTR 1030 - Accelerated Introductory Astronomy 1                | 4   |
-|                                                | 13  |                                                                 | 14  |
+| CSCI 4950 - Senior Thesis                      | 4   | CSCI 4950 - Senior Thesis                                       | 4   |
+| CSCI 3100 - Software and Society               | 1   | ECON 3070 - Intermediate Microeconomic Theory                   | 3   |
+| CSCI 3434 - Theory of Computation (Core #5)    | 3   | ECON 3080 - Intermediate Microeconomic Theory                   | 3   |
+| CSCI 4555 - Compiler Construction (Core #6)    | 3   | ASTR 1030 - Accelerated Introductory Astronomy 1                | 4   |
+| APPM 4440 - Applied Analysis                   | 3   |                                                                 |     |
+|                                                | 14  |                                                                 | 14  |
 
-* **College Total**: 114
+* **College Total**: 141
 * **IIITDM Transfer Credits**:33
   * 33 free electives
-* **Total Total**: 144
+* **Total Total**: 174
 
 ## CS Requirements
 
@@ -150,12 +151,13 @@ Additional courses from the below list to bring the total number of computer sci
 
 Senior Thesis (two semesters: beginning fall, ending spring):
 
-* [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and
-* [x] CSCI 4358-4, Entrepreneurial Projects 2
+* [x] CSCI 4950-4, Senior Thesis
+* [x] CSCI 4950-4, Senior Thesis
+* [x] CSCI 3100-1, Software and Society
 
-This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
+Senior Thesis may not be taken before the senior year. Prerequisites for Senior Thesis include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours. See [Senior Thesis](http://www.colorado.edu/cs/undergraduates/bs-degree/senior-thesis) for more information.  
 
-## Applied Mathematics Requirements
+## Math Requirements
 
 ### Calculus
 
