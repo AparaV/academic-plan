@@ -18,7 +18,7 @@ Personal coursework and schedule for University of Colorado Boulder
 * [Natural Science Requirements](#natural-science-requirements)
 * [Humanities Requirements](#humanities-requirements)
 * [Free Electives](#free-electives)
-* [Cognitive Science Certificate](#cognitive-science-certificate-requirements)
+* [Applied Mathematics Requirements](#applied-mathematics-requirements)
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -238,39 +238,74 @@ Remaining credits
 
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
-## Applied Mathematics
+## Applied Mathematics Requirements
 
-### Core Course Requirements
-* [x] PSYC 2145-3, Introduction to Cognitive Psychology
-    * Prerequisites: PSYC 1001-3 or 4 units
-* [x] CSCI 3702, PHIL 3310, LING 3005, PSYC 3005, Introduction to Cognitive Science
-    * Prerequisites: 2 of the following: PSYC 2145, LING 2000, CSCI 1300, PHIL 2440 (a minimum of 3 additional units)
+### Calculus
 
-### Computer Science Focus Area
+Three semesters of calculus:
+* [x] APPM 1350-4, Calculus 1
+* [x] APPM 1360-4, Calculus 2
+* [x] APPM 2350-4, Calculus 3
 
-Two of the following courses in Computer Science:
-* [x] CSCI 3002-3, Human-Centered Computing Foundations
-* [x] CSCI 3202-3, Artificial Intelligence
-    * Prerequisites: CSCI 3104-4, 3155-4
-* [ ] CSCI 4202-3, Artificial Intelligence 2
-    * Prerequisite: CSCI 3202-3
-* [ ] CSCI 4830-3, Special Topics: Learning and Collaboration
+### Computing Experience
 
-### Psychology Focus Area
+Select one:
+* [x] CSCI 1300-4
+* [ ] ECEN 1310-4
+* [ ] GEEN 1300-4
 
-Minimum of 7 units:
-* [ ] PSYC 4032-3, Neurobiology of Learning and Memory
-    * Prerequisites: PSYC 2012, or 4052, or IPHY 3730, or instructor consent
-* [ ] PSYC 4145-4, Cognitive Psychology
-    * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, AND one of the following five courses in experimental psychology:
-* [ ] PSYC 4155, Cognitive Neuroscience/Neuropsychology
-    * Prerequisites: PSYC 1001, 2012, 2145 and 3101
-* [x] PSYC 4165-4, Psychology of Perception
-    * Prerequisites: PSYC 1001-3, 3101-4
-* [ ] PSYC 4175-3, Computational Cognitive Neuroscience
-    * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, 2012-3
-* [x] PSYC 4220, Language & Mind
-    * Prerequisites: PSYC 1001, LING 2000* [ ]
+### Science Requirements
+
+Requirements:
+* [x] PHYS 1110-4, Physics 1
+* [x] PHYS 1120-4, Physics 2
+* [x] PHYS 1140-1, Experimental Physics 1
+
+Completion of at least 5 additional credits (including 2 credits of laboratory science):
+* [ ] CHEN 1211 and CHEM 1221
+* [ ] CHEM 1113 and CHEM 1114
+* [ ] EBIO 1210, 1220, 1230, and 1240
+* [ ] MCDB 1150, 1151, 2150, and 2151
+* [x] PHYS 2130 and PHYS 2150 (3 + 1; now accepted by the department)
+
+### Applied Math Requirements
+
+Completion of the following required courses:
+* [x] APPM 2360-3, Differential Equations with Linear Algebra
+* [x] APPM 3310-3, Matrix Methods
+* [x] APPM 4350-3, Methods in Applied Mathematics I: Fourier Series
+* [x] APPM 4360-3, Methods in Applied Mathematics II: Complex Variables
+* [x] APPM 4650-3, Intermediate Numerical Analysis I
+
+And one of the following:
+* [x] APPM 4440-3, Undergraduate Applied Analysis 1
+* [ ] MATH 3001-3, Analysis 1
+* [ ] MATH 3140-3, Abstract Algebra 1
+
+A two semester course sequence of applied mathematics or mathematics courses numbered 4000 or above in addition to APPM 4350 and 4360:
+* [ ]APPM 4650/4660
+* [ ] APPM 4570/4580
+* [ ] APPM 4560/4520
+* [ ] APPM 4440/4450
+* [ ] APPM 4380/4390
+* [x] APPM 3570 and either APPM 4520 or APPM 4560 (Note: APPM 3570 is the only 3000-level course that can be used to satisfy this requirement.)
+
+A minimum of 24 credits in applied mathematics or mathematics courses numbered 3000 or above:
+* [x] APPM 4120-3, Introduction to Operations Research
+
+### Computer Science Option
+
+Required Course:
+* [x] CSCI 2270-4, Data Structures
+
+Additional courses to bring the total number of credits to 24; at least two of these must be at the 3000 level:
+* [x] See above under [CS Requirements](#cs-requirements)
+
+### Humanities and Social Sciences Requirements
+
+Humanities and Social Sciences requirements of the College of Engineering and Applied Sciences (18 credits), which includes a 3 credit writing requirement. Students may satisfy the writing requirement by taking HUEN 1010 (first-year freshmen only), WRTG 3030, WRTG 3035, HUEN 3100, or PHYS 3050. Humanities and social science electives must not be limited to a selection of unrelated introductory courses.  At least 9 credit hours must be at the 3000-level or above.
+
+* [x] See above under [Humanities and Social Sciences](#humanities-and-social-sciences)
 
 ## Engineering Honors
 
