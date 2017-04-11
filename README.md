@@ -44,10 +44,11 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
-| CSCI 2824 – Discrete Structures             | 3   | APPM 3510 – Matrix Methods and Linear Algebra                   | 3   |
-| APPM 2360 – Differential Equations          | 4   | APPM 3570 - Probability and Statistics                          | 3   |                            
-| EHON 1151 - Critical Encounters             | 3   | (Core #1)                                                       | 3   |
-| CSCI 3308 – Software Dev & Tools            | 3   | (Elective #1)                                                   | 3   |
+| CSCI 2824 – Discrete Structures             | 3   | APPM 3310 – Matrix Methods and Linear Algebra                   | 3   |
+| APPM 2360 – Differential Equations          | 4   | APPM 3570 - Applied Probability                                 | 3   |                            
+| EHON 1151 - Critical Encounters             | 3   | CSCI 3702 - Cognitive Science (Core #1)                         | 3   |
+| CSCI 3308 – Software Dev & Tools            | 3   | CSCI 4446 - Chaotic Dynamics (Fallback for CSCI 3702 - Core #1) | (3) |
+|                                             |     | (Elective #1)                                                   | 3   |
 |                                             | 17  |                                                                 | 16  |
 
 |               Summer Semester               | Hrs |
@@ -62,24 +63,22 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 3202 – Artificial Intelligence (Core #3) | 3   | PHYS 2150 - Experimental Physics 2                              | 1   |
 | APPM 4350 – Fourier Series                    | 3   | APPM 4360 – Complex Variables                                   | 3   |
 | APPM 4560 – Markov Processes                  | 3   | CSCI 4830 – Special Topics in Comp Sci (ML) (Elective #2)       | 3   |                            
-| CSCI 3434 - Theory of Computation (Core #4)   | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
+| CSCI 3302 - Introduction to Robotics (Core #4)| 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
 |                                               |     | APPM 4120 - Introduction to Operations Research (Elective #3)   | 3   |
 |                                               | 16  |                                                                 | 16  |
 
 ### 2019-2020
-|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| Capstone                                    | 4   | Capstone                                                        | 4   |
-| (Core #5)                                   | 3   | ECON 3070 - Microeconomics                                      | 3   |
-| (Core #6)                                   | 3   | ECON 3080 - Macroeconomics                                      | 3   |
-| APPM 4440 - Applied Analysis                | 3   | ASTR 1030 - Accelerated Introductory Astronomy 1                | 4   |
-|                                             | 13  |                                                                 | 14  |
+|                Fall Semester                   | Hrs |                         Spring Semester                         | Hrs |
+|------------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| Capstone                                       | 4   | Capstone                                                        | 4   |
+| CSCI 3434 - Theory of Computation (Core #5)    | 3   | ECON 3070 - Intermediate Microeconomic Theory                   | 3   |
+| CSCI 4555 - Compiler Construction (Core #6)    | 3   | ECON 3080 - Intermediate Microeconomic Theory                   | 3   |
+| APPM 4440 - Applied Analysis                   | 3   | ASTR 1030 - Accelerated Introductory Astronomy 1                | 4   |
+|                                                | 13  |                                                                 | 14  |
 
 * **College Total**: 114
-* **HS Transfer Credits**:30
-  * 11 lower-division humanities
-  * 8 natl. sciences
-  * 11 free electives
+* **IIITDM Transfer Credits**:33
+  * 33 free electives
 * **Total Total**: 144
 
 ## CS Requirements
@@ -99,12 +98,17 @@ All of the following courses are required:
 
 Six of the following courses are required:
 * [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
-* [x] CSCI 3202-3, Introduction to Artificial Intelligence
+* [x] CSCI 3202-3, Introduction to Artificial Intelligence (Fall 2018)<br>
+  Prerequisites: CSCI 2824
 * [ ] CSCI 3287-3, Design & Analysis of Data Systems
-* [ ] CSCI 3302-3, Introduction to Robotics
-* [x] CSCI 3434-3, Theory of Computation
-* [x] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
-* [ ] CSCI 3702-3, Cognitive Science
+* [x] CSCI 3302-3, Introduction to Robotics (Fall 2018)<br>
+  Prerequisites: CSCI 2270, CSCI 2824
+* [x] CSCI 3434-3, Theory of Computation (Fall 2019)<br>
+  Prerequisites: CSCI 3104, CSCI 3155
+* [x] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS) (Summer 2018)<br>
+  Prerequisites:
+* [x] CSCI 3702-3, Cognitive Science (Spring 2018)<br>
+  Prerequisites: CSCI 1300, PSYC 2145 (Allows students who haven't fulfilled these)
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
 * [ ] CSCI 3832-3, Machine Translation
 * [ ] CSCI 4229-3, Computer Graphics
@@ -114,10 +118,12 @@ Six of the following courses are required:
 * [ ] CSCI 4302-3, Advanced Robotics
 * [ ] CSCI 4314-3, Algorithms for Molecular Biology
 * [ ] CSCI 4413-3, Computer Security & Ethical Hacking
-* [ ] CSCI 4446-3, Chaotic Dynamics
+* [x] CSCI 4446-3, Chaotic Dynamics (Fallback in case CSCI 3702 is full for Spring 2018)<br>
+  Prerequisites: APPM 2350, CSCI 1300, PHYS 1110 Recommended: PHYS 1120, CSCI 3656, MATH 3130
 * [ ] CSCI 4448-3, Object-Oriented Analysis and Design
 * [ ] CSCI 4502-3, Data Mining
-* [ ] CSCI 4555-3, Compiler Construction
+* [x] CSCI 4555-3, Compiler Construction (Fall 2019)<br>
+  Prerequisites: CSCI 2400, CSCI 2824
 * [ ] CSCI 4576-4, High-Performance Scientific Computing 1
 * [ ] CSCI 4586-4, High-Performance Scientific Computing 2
 * [ ] CSCI 4593-3, Computer Organization
@@ -131,25 +137,25 @@ Six of the following courses are required:
 
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
-* [x] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS)
-* [x] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
+* [ ] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS)
+* [ ] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
 * [x] CSCI 4830-3, Special Topics in Computer Science
 * [ ] CSCI 4831-3 Special Topics in Algorithms
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
-* [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
+* [x] APPM 4120/MATH 4120-3, Introduction to Operations Research
 
 ### Capstone
 
-Entrepreneurial Project (two semesters: beginning fall, ending spring):
+Senior Thesis (two semesters: beginning fall, ending spring):
 
 * [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and
 * [x] CSCI 4358-4, Entrepreneurial Projects 2
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
-## Math Requirements
+## Applied Mathematics Requirements
 
 ### Calculus
 
@@ -178,9 +184,9 @@ Take one of the following courses:
 
 Take one of the following courses:
 
-* [x] APPM 4570-3, Statistical Methods
+* [ ] APPM 4570-3, Statistical Methods
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective, but not both)
-* [ ] APPM 3570-3, Applied Probability
+* [x] APPM 3570-3, Applied Probability
 * [ ] APPM 4520-3, Introduction to Mathematical Statistics
 * [ ] CVEN 3227-3, Probability, Statistics and Decision
 * [ ] MATH 3510-3, Introduction to Probability and Statistics
@@ -206,6 +212,8 @@ Complete at least 8 additional hours of acceptable Natural Science electives to 
 
 ## Humanities Requirements
 
+At least six of the remaining 21 credit hours must be at the upper-division undergraduate level or above, i.e. numbered 3000 or above. Upper-division writing does not count towards this 6 credits of upper division coursework. See the College of Engineering and Applied Science H/SS requirements for a list of approved courses and more details.
+
 Three credits of approved writing:
 * [x] WRTG 3030-3, Writing on Science and Society
 * [ ] WRTG 3035-3, Technical Communication and Design
@@ -213,15 +221,22 @@ Three credits of approved writing:
 * [ ] HUEN 3100-3, Humanities for Engineers 1
 * [ ] PHYS 3050-3, Writing in Physics: Problem-Solving and Rhetoric
 
-* [ ] 6 upper-division humanities
-* [ ] 21 humanities
-At least six of the remaining 21 credit hours must be at the upper-division undergraduate level or above, i.e. numbered 3000 or above. Upper-division writing does not count towards this 6 credits of upper division coursework. See the College of Engineering and Applied Science H/SS requirements for a list of approved courses and more details.
+6 upper-division humanities
+* [x] ECON 3070-3, Intermediate Microeconomic Theory
+* [x] ECON 3080-3, Intermediate Macroeconomic Theory
+
+Remaining credits
+* [x] HIST 1011-3, Western Civilization to the 16th century
+* [x] SCAN 1202-3, Tolkien's Nordic Sources
+* [x] EHON 1151-3, Critical Encounters
+* [x] ECON 2010-3, Principles of Microeconomics
+* [x] ECON 2020-3, Principles of Macroeconomics
 
 ## Free Electives
 
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
-## Cognitive Science Certificate Requirements
+## Applied Mathematics
 
 ### Core Course Requirements
 * [x] PSYC 2145-3, Introduction to Cognitive Psychology
@@ -255,6 +270,8 @@ Minimum of 7 units:
 * [x] PSYC 4220, Language & Mind
     * Prerequisites: PSYC 1001, LING 2000* [ ]
 
+## Engineering Honors
+
 
 ## Theoretical Standing
-If all goes according to plan, I'll graduate with a B.S. in Computer Science and a certificate in Cognitive Science.
+If all goes according to plan, I'll graduate with honors with a B.S. in Computer Science and Applied Mathematics.
