@@ -28,9 +28,10 @@ Personal coursework and schedule for University of Colorado Boulder
 | APPM 1350 – Calculus 1                      | 4   | APPM 1360 – Calculus 2                                          | 4   |
 | PHYS 1110 – Physics for Engineers           | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
 | CSCI 1000 – CS as A Field Of Study          | 1   | CSCI 2270 – Data Structures                                     | 4   |
-| CSCI 1300 – Computer Sci 1: Programming     | 4   | PSCI 2004 – Survey of Western Political Thought                 | 3   |
-| PSCI 1101 – Intro to American Politics      | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 15  |
+| CSCI 1300 – Computer Sci 1: Programming     | 4   | SCAN 1202 – Tolkien's Nordic Sources                            | 3   |
+| HIST 1011 – European history to 16th cent.  | 3   | PHYS 1140 - Experimental Physics 1                              | 1   |
+| PHYS 1400 - Fundamentals of Sci. Inquiry    | 1   |
+|                                             | 17  |                                                                 | 16  |
 
 ### 2017-2018
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
