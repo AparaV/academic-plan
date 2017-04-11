@@ -9,16 +9,17 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Foundation](#foundation)
   * [Core](#core)
   * [Electives](#electives)
-  * [Humanities and Social Sciences](#humanities-and-social-sciences)
-* [Math Requirements](#math-requirements)
-  * [Calculus](#calculus)
-  * [Discrete](#discrete-math)
-  * [Linear Algebra](#linear-algebra)
-  * [Probability/Stats](#probability-or-statistics)
-* [Natural Science Requirements](#natural-science-requirements)
-* [Humanities Requirements](#humanities-requirements)
-* [Free Electives](#free-electives)
+  * [Math Requirements](#math-requirements)
+  * [Natural Science Requirements](#natural-science-requirements)
+  * [Humanities Requirements](#humanities-requirements)
+  * [Free Electives](#free-electives)
 * [Applied Mathematics Requirements](#applied-mathematics-requirements)
+  * [Calculus](#calculus)
+  * [Computing Experience](#computing-experience)
+  * [Science Requirements](#science-requirements)
+  * [Applied Math Requirements](#applied-math-requirements)
+  * [Computer Science Option](#computer-science-option)
+  * [Humanities and Social Sciences Requirements](#humanities-and-social-sciences-requirements)
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -157,16 +158,16 @@ Senior Thesis (two semesters: beginning fall, ending spring):
 
 Senior Thesis may not be taken before the senior year. Prerequisites for Senior Thesis include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours. See [Senior Thesis](http://www.colorado.edu/cs/undergraduates/bs-degree/senior-thesis) for more information.  
 
-## Math Requirements
+### Math Requirements
 
-### Calculus
+#### Calculus
 
 Must take both courses:
 
 * [x] APPM 1350-4, Calculus 1 for Engineers or MATH 1300-5, Calculus 1
 * [x] APPM 1360-4, Calculus 2 for Engineers or MATH 2300-5, Calculus 2
 
-### Discrete Math
+#### Discrete Math
 
 Take one of the following courses:
 
@@ -174,7 +175,7 @@ Take one of the following courses:
 * [ ] ECEN 2703-3, Discrete Mathematics for Computer Engineers
 * [ ] APPM 3170-3, Discrete Applied Mathematics
 
-### Linear Algebra
+#### Linear Algebra
 
 Take one of the following courses:
 
@@ -182,7 +183,7 @@ Take one of the following courses:
 * [ ] MATH 3130-3, Intro to Linear Algebra.
 * [x] APPM 3310-3, Matrix Methods and Applications.
 
-### Probability or Stats
+#### Probability or Stats
 
 Take one of the following courses:
 
@@ -197,7 +198,7 @@ Take one of the following courses:
 * [ ] ECON 3818-3, Introduction to Statistics w/ Computer Applications
 * [ ] MCEN 4120-3, Engineering Statistics
 
-## Natural Science Requirements
+### Natural Science Requirements
 
 Your 17 hours must include:
 * [x] PHYS1110-4 General Physics 1 (Calculus-based) REQUIRED
@@ -212,7 +213,7 @@ Complete at least 8 additional hours of acceptable Natural Science electives to 
 * [x] PHYS 2150-1, Experimental Physics 2
 * [x] ASTR 1030-4, Accelerated Introductory Astronomy 1
 
-## Humanities Requirements
+### Humanities Requirements
 
 At least six of the remaining 21 credit hours must be at the upper-division undergraduate level or above, i.e. numbered 3000 or above. Upper-division writing does not count towards this 6 credits of upper division coursework. See the College of Engineering and Applied Science H/SS requirements for a list of approved courses and more details.
 
@@ -234,7 +235,7 @@ Remaining credits
 * [x] ECON 2010-3, Principles of Microeconomics
 * [x] ECON 2020-3, Principles of Macroeconomics
 
-## Free Electives
+### Free Electives
 
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
@@ -305,7 +306,7 @@ Additional courses to bring the total number of credits to 24; at least two of t
 
 Humanities and Social Sciences requirements of the College of Engineering and Applied Sciences (18 credits), which includes a 3 credit writing requirement. Students may satisfy the writing requirement by taking HUEN 1010 (first-year freshmen only), WRTG 3030, WRTG 3035, HUEN 3100, or PHYS 3050. Humanities and social science electives must not be limited to a selection of unrelated introductory courses.  At least 9 credit hours must be at the 3000-level or above.
 
-* [x] See above under [Humanities and Social Sciences](#humanities-and-social-sciences)
+* [x] See above under [Humanities Requirements](#humanities-requirements)
 
 ## Engineering Honors
 
