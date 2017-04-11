@@ -9,7 +9,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Foundation](#foundation)
   * [Core](#core)
   * [Electives](#electives)
-  * [Capstone](#Capstone)
+  * [Capstone](#capstone)
   * [Math Requirements](#math-requirements)
   * [Natural Science Requirements](#natural-science-requirements)
   * [Humanities Requirements](#humanities-requirements)
