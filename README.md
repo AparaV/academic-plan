@@ -32,7 +32,9 @@ Personal coursework and schedule for University of Colorado Boulder
 | HIST 1011 – European history to 16th cent.  | 3   | PHYS 1140 - Experimental Physics 1                              | 1   |
 | PHYS 1400 - Fundamentals of Sci. Inquiry    | 1   |
 |                                             | 17  |                                                                 | 16  |
+
 |               Summer Semester               | Hrs |
+|---------------------------------------------|:---:|
 | APPM 2350 – Calculus 3                      | 4   |
 | ECON 2010 – Principles of Microeconomics    | 4   |
 | ECON 2010 – Principles of Macroeconomics    | 4   |
