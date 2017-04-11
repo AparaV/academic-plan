@@ -46,32 +46,34 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
 | CSCI 2824 – Discrete Structures             | 3   | APPM 3510 – Matrix Methods and Linear Algebra                   | 3   |
 | APPM 2360 – Differential Equations          | 4   | APPM 3570 - Probability and Statistics                          | 3   |                            
-| EHON 1151 - Critical Encounters             | 3   | CSCI Core                                                       | 3   |
-| CSCI 3308 – Software Dev & Tools            | 3   | CSCI Elective                                                   | 3   |
+| EHON 1151 - Critical Encounters             | 3   | (Core #1)                                                       | 3   |
+| CSCI 3308 – Software Dev & Tools            | 3   | (Elective #1)                                                   | 3   |
 |                                             | 17  |                                                                 | 16  |
 
 |               Summer Semester               | Hrs |
 |---------------------------------------------|:---:|
-| APPM 4650 – Numerical Analysis              | 3   |
+| APPM 4650 – Numerical Analysis (Core #2)    | 3   |
 |                                             | 3   |
 
 ### 2018-2019
-|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 4253 – Data-Center Scale Computing                         | 3   |
-| CSCI 3202 – Artificial Intelligence         | 3   | ATLS 4214 – Big Data Architecture                               | 3   |
-| CSCI 4502 – Data Mining                     | 3   | CSCI 4830 – Special Topics in Computer Science                  | 3   |
-| CSCI 3702 – Cognitive Science               | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
-| LING 2000 - Intro to Linguistics            | 3   | PSYC 3101 - Stats/Research in Psychology                        | 4   |
-|                                             | 16  |                                                                 | 16  |
+|                Fall Semester                  | Hrs |                         Spring Semester                         | Hrs |
+|-----------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
+| CSCI 3155 – Principles of Prog. Languages     | 4   | PHYS 2130 – Physics 3                                           | 3   |
+| CSCI 3202 – Artificial Intelligence (Core #3) | 3   | PHYS 2150 - Experimental Physics 2                              | 1   |
+| APPM 4350 – Fourier Series                    | 3   | APPM 4360 – Complex Variables                                   | 3   |
+| APPM 4560 – Markov Processes                  | 3   | CSCI 4830 – Special Topics in Comp Sci (ML) (Elective #2)       | 3   |                            
+| CSCI 3434 - Theory of Computation (Core #4)   | 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
+|                                               |     | APPM 4120 - Introduction to Operations Research (Elective #3)   | 3   |
+|                                               | 16  |                                                                 | 16  |
 
 ### 2019-2020
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI 3287 – Design/Analysis of Data Systems | 3   | PSYC 4220 - Language & Mind                                     | 3   |
-| PSYC 4165 – Psychology of Perception        | 4   |                                                                 |     |
-|                                             | 11  |                                                                 | 7  |
+| Capstone                                    | 4   | Capstone                                                        | 4   |
+| (Core #5)                                   | 3   | ECON 3070 - Microeconomics                                      | 3   |
+| (Core #6)                                   | 3   | ECON 3080 - Macroeconomics                                      | 3   |
+| APPM 4440 - Applied Analysis                | 3   | ASTR 1030 - Accelerated Introductory Astronomy 1                | 4   |
+|                                             | 13  |                                                                 | 14  |
 
 * **College Total**: 114
 * **HS Transfer Credits**:30
@@ -96,25 +98,25 @@ All of the following courses are required:
 ### Core
 
 Six of the following courses are required:
-* [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
+* [ ] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
-* [x] CSCI 3287-3, Design & Analysis of Data Systems
+* [ ] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3302-3, Introduction to Robotics
-* [ ] CSCI 3434-3, Theory of Computation
-* [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
-* [x] CSCI 3702-3, Cognitive Science
+* [x] CSCI 3434-3, Theory of Computation
+* [x] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
+* [ ] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
 * [ ] CSCI 3832-3, Machine Translation
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
-* [x] CSCI 4253-3, Datacenter Scale Computing
+* [ ] CSCI 4253-3, Datacenter Scale Computing
 * [ ] CSCI 4273-3, Network Systems
 * [ ] CSCI 4302-3, Advanced Robotics
 * [ ] CSCI 4314-3, Algorithms for Molecular Biology
 * [ ] CSCI 4413-3, Computer Security & Ethical Hacking
 * [ ] CSCI 4446-3, Chaotic Dynamics
 * [ ] CSCI 4448-3, Object-Oriented Analysis and Design
-* [x] CSCI 4502-3, Data Mining
+* [ ] CSCI 4502-3, Data Mining
 * [ ] CSCI 4555-3, Compiler Construction
 * [ ] CSCI 4576-4, High-Performance Scientific Computing 1
 * [ ] CSCI 4586-4, High-Performance Scientific Computing 2
@@ -168,20 +170,20 @@ Take one of the following courses:
 
 Take one of the following courses:
 
-* [x] CSCI 2820-3, Linear Algebra with CS Applications
+* [ ] CSCI 2820-3, Linear Algebra with CS Applications
 * [ ] MATH 3130-3, Intro to Linear Algebra.
-* [ ] APPM 3310-3, Matrix Methods and Applications.
+* [x] APPM 3310-3, Matrix Methods and Applications.
 
 ### Probability or Stats
 
 Take one of the following courses:
 
-* [ ] APPM 4570-3, Statistical Methods
+* [x] APPM 4570-3, Statistical Methods
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective, but not both)
 * [ ] APPM 3570-3, Applied Probability
 * [ ] APPM 4520-3, Introduction to Mathematical Statistics
 * [ ] CVEN 3227-3, Probability, Statistics and Decision
-* [x] MATH 3510-3, Introduction to Probability and Statistics
+* [ ] MATH 3510-3, Introduction to Probability and Statistics
 * [ ] MATH 4510-3, Introduction to Probability Theory
 * [ ] ECEN 3810-3, Introduction to Probability Theory.
 * [ ] ECON 3818-3, Introduction to Statistics w/ Computer Applications
@@ -198,10 +200,9 @@ Complete one of the following sequences:
 * [ ] CHEM 1113-4, General Chemistry 1 and CHEM 1114-1, Laboratory in General Chemistry 1 (Major restrictions may be enforced by Chemistry department.)
 
 Complete at least 8 additional hours of acceptable Natural Science electives to make the required 17 hours. Do not repeat any course(s) completed from the above science sequences.
-* [x] EBIO 1210-3, General Biology 1 (credits transferred from HS)
-* [x] EBIO 1220-3, General Biology 2 (credits transferred from HS)
-* [x] EBIO 1230-1, General Biology Laboratory 1 (credits transferred from HS)
-* [x] EBIO 1240-1, General Biology Laboratory 2 (credits transferred from HS)
+* [x] PHYS 2130-3, Physics 3
+* [x] PHYS 2150-1, Experimental Physics 2
+* [x] ASTR 1030-4, Accelerated Introductory Astronomy 1
 
 ## Humanities Requirements
 
