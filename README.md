@@ -44,12 +44,16 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
-| CSCI 2824 – Discrete Structures             | 3   | MATH 3510 – Intro to Probability and Statistics                 | 3   |
-| CSCI 3002 – Human-Centered Computing        | 3   | CSCI 2270 – Linear Algebra w/ CS Applications                   | 3   |
-| PHYS 1140 – Experimental Physics Lab        | 1   | PSYC 2145 - Introductory Cognitive Psychology                   | 3   |                            
-| PSYC 1001 - General Psychology              | 3   | ATLS 4120 - Mobile App Development                              | 3   |
-| CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
+| CSCI 2824 – Discrete Structures             | 3   | APPM 3510 – Matrix Methods and Linear Algebra                   | 3   |
+| APPM 2360 – Differential Equations          | 4   | APPM 3570 - Probability and Statistics                          | 3   |                            
+| EHON 1151 - Critical Encounters             | 3   | CSCI Core                                                       | 3   |
+| CSCI 3308 – Software Dev & Tools            | 3   | CSCI Elective                                                   | 3   |
 |                                             | 17  |                                                                 | 16  |
+
+|               Summer Semester               | Hrs |
+|---------------------------------------------|:---:|
+| APPM 4650 – Numerical Analysis              | 3   |
+|                                             | 3   |
 
 ### 2018-2019
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
@@ -122,10 +126,10 @@ Six of the following courses are required:
 * [ ] TLEN 5842-3, Linux Systems Administration (formerly CSCI 4113 or TLEN 5833 Topics; only one of these will count toward the CSEN-BS)
 
 ### Electives
- 
+
 Additional courses from the below list to bring the total number of computer science credit hours to 58 or more.
 
-* [x] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+* [x] ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS)
 * [x] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
 * [ ] CSCI 3022-3, Data Science Algorithms (can count for probability/statistics requirement OR CS elective credit, but not both)
@@ -138,7 +142,7 @@ Additional courses from the below list to bring the total number of computer sci
 
 Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
-* [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
+* [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and
 * [x] CSCI 4358-4, Entrepreneurial Projects 2
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
@@ -193,7 +197,7 @@ Complete one of the following sequences:
 * [ ] CHEN 1211-4, General Chemistry for Engineers and CHEM 1221-1, Engineering General Chemistry lab
 * [ ] CHEM 1113-4, General Chemistry 1 and CHEM 1114-1, Laboratory in General Chemistry 1 (Major restrictions may be enforced by Chemistry department.)
 
-Complete at least 8 additional hours of acceptable Natural Science electives to make the required 17 hours. Do not repeat any course(s) completed from the above science sequences. 
+Complete at least 8 additional hours of acceptable Natural Science electives to make the required 17 hours. Do not repeat any course(s) completed from the above science sequences.
 * [x] EBIO 1210-3, General Biology 1 (credits transferred from HS)
 * [x] EBIO 1220-3, General Biology 2 (credits transferred from HS)
 * [x] EBIO 1230-1, General Biology Laboratory 1 (credits transferred from HS)
@@ -228,27 +232,27 @@ Satisfying all the other course requirements as described above typically adds u
 
 Two of the following courses in Computer Science:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations
-* [x] CSCI 3202-3, Artificial Intelligence 
+* [x] CSCI 3202-3, Artificial Intelligence
     * Prerequisites: CSCI 3104-4, 3155-4
-* [ ] CSCI 4202-3, Artificial Intelligence 2 
+* [ ] CSCI 4202-3, Artificial Intelligence 2
     * Prerequisite: CSCI 3202-3
 * [ ] CSCI 4830-3, Special Topics: Learning and Collaboration
 
 ### Psychology Focus Area
 
 Minimum of 7 units:
-* [ ] PSYC 4032-3, Neurobiology of Learning and Memory 
+* [ ] PSYC 4032-3, Neurobiology of Learning and Memory
     * Prerequisites: PSYC 2012, or 4052, or IPHY 3730, or instructor consent
 * [ ] PSYC 4145-4, Cognitive Psychology
     * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, AND one of the following five courses in experimental psychology:
-* [ ] PSYC 4155, Cognitive Neuroscience/Neuropsychology 
+* [ ] PSYC 4155, Cognitive Neuroscience/Neuropsychology
     * Prerequisites: PSYC 1001, 2012, 2145 and 3101
 * [x] PSYC 4165-4, Psychology of Perception
     * Prerequisites: PSYC 1001-3, 3101-4
 * [ ] PSYC 4175-3, Computational Cognitive Neuroscience
     * Prerequisites: PSYC 1001-3, 2145-3, 3101-4, 2012-3
 * [x] PSYC 4220, Language & Mind
-    * Prerequisites: PSYC 1001, LING 2000* [ ] 
+    * Prerequisites: PSYC 1001, LING 2000* [ ]
 
 
 ## Theoretical Standing
