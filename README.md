@@ -21,6 +21,7 @@ Personal coursework and schedule for University of Colorado Boulder
   * [Applied Math Requirements](#applied-math-requirements)
   * [Computer Science Option](#computer-science-option)
   * [Humanities and Social Sciences Requirements](#humanities-and-social-sciences-requirements)
+* [Engineering Honors Requirements](#engineering-honors-requirements)
 * [Theoretical Standing](#theoretical-standing)
 
 ## Classes
@@ -290,7 +291,7 @@ A two semester course sequence of applied mathematics or mathematics courses num
 * [ ] APPM 4560/4520
 * [ ] APPM 4440/4450
 * [ ] APPM 4380/4390
-* [x] APPM 3570 and either APPM 4520 or APPM 4560 (Note: APPM 3570 is the only 3000-level course that can be used to satisfy this requirement.)
+* [x] APPM 3570 and either APPM 4520 or APPM 4560 (Note: APPM 3570 is the only 3000-level course that can be used to satisfy this requirement)
 
 A minimum of 24 credits in applied mathematics or mathematics courses numbered 3000 or above:
 * [x] APPM 4120-3, Introduction to Operations Research
@@ -309,8 +310,12 @@ Humanities and Social Sciences requirements of the College of Engineering and Ap
 
 * [x] See above under [Humanities Requirements](#humanities-requirements)
 
-## Engineering Honors
+## Engineering Honors Requirements
 
+* [ ] Complete EHON 1151 - Critical Encounters
+* [x] Maintain a minimum cumulative GPA of 3.3
+* [ ] Prepare an acceptable "junior level" Honors ePortfolio
+* [ ] Complete and successfully defend either a Senior Honors Thesis or a Senior Honors E-Portfolio
 
 ## Theoretical Standing
 If all goes according to plan, I'll graduate with honors with a B.S. in Computer Science and Applied Mathematics.
