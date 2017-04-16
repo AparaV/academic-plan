@@ -1,4 +1,4 @@
-# CU-Boulder
+tus# CU-Boulder
 Personal coursework and schedule for University of Colorado Boulder
 * [Classes](#classes)
   * [2016-2017](#2016-2017)
@@ -40,7 +40,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|
 | APPM 2350 – Calculus 3                      | 4   |
 | ECON 2010 – Principles of Microeconomics    | 4   |
-| ECON 2010 – Principles of Macroeconomics    | 4   |
+| ECON 2020 – Principles of Macroeconomics    | 4   |
 |                                             | 12  |
 
 ### 2017-2018
