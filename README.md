@@ -1,4 +1,4 @@
-tus# CU-Boulder
+# CU-Boulder
 Personal coursework and schedule for University of Colorado Boulder
 * [Classes](#classes)
   * [2016-2017](#2016-2017)
