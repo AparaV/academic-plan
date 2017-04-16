@@ -52,7 +52,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | EHON 1151 - Critical Encounters             | 3   | CSCI 3702 - Cognitive Science (Core #1)                         | 3   |
 | CSCI 3308 – Software Dev & Tools            | 3   | CSCI 4446 - Chaotic Dynamics (Fallback for CSCI 3702 - Core #1) | (3) |
 |                                             |     | APPM 4120 - Introduction to Operations Research (Elective #1)   | 3   |
-|                                             | 17  |                                                                 | 17  |
+|                                             | 16  |                                                                 | 17  |
 
 |               Summer Semester               | Hrs |
 |---------------------------------------------|:---:|
