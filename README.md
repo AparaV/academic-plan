@@ -51,7 +51,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | APPM 3310 – Matrix Methods and Applications | 3   | APPM 3570 - Applied Probability                                 | 3   |                            
 | EHON 1151 - Critical Encounters             | 3   | CSCI 3702 - Cognitive Science (Core #1)                         | 3   |
 | CSCI 3308 – Software Dev & Tools            | 3   | CSCI 4446 - Chaotic Dynamics (Fallback for CSCI 3702 - Core #1) | (3) |
-|                                             |     | APPM 4120 - Introduction to Operations Research (Elective #1)   | 3   |
+|                                             |     | CSCI 4830 – Special Topics in Comp Sci (ML) (Elective #1)       | 3   |
 |                                             | 16  |                                                                 | 17  |
 
 |               Summer Semester               | Hrs |
@@ -65,7 +65,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 3155 – Principles of Prog. Languages     | 4   | PHYS 2130 – Physics 3                                           | 3   |
 | CSCI 3202 – Artificial Intelligence (Core #3) | 3   | PHYS 2150 - Experimental Physics 2                              | 1   |
 | APPM 4350 – Fourier Series                    | 3   | APPM 4360 – Complex Variables                                   | 3   |
-| APPM 4560 – Markov Processes                  | 3   | CSCI 4830 – Special Topics in Comp Sci (ML) (Elective #2)       | 3   |                            
+| APPM 4560 – Markov Processes                  | 3   | APPM 4120 - Introduction to Operations Research (Elective #2)   | 3   |                            
 | CSCI 3302 - Introduction to Robotics (Core #4)| 3   | WRTG 3030 - Writing on Science & Society                        | 3   |                            
 |                                               |     | Elective (#3)                                                   | 3   |
 |                                               | 16  |                                                                 | 16  |
