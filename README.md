@@ -28,43 +28,44 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2016-2017
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| APPM 1350 – Calculus 1                      | 4   | APPM 1360 – Calculus 2                                          | 4   |
-| PHYS 1110 – Physics for Engineers           | 4   | PHYS 1120 – Physics 2 for Engineers                             | 4   |
-| CSCI 1000 – CS as A Field Of Study          | 1   | CSCI 2270 – Data Structures                                     | 4   |
-| CSCI 1300 – Computer Sci 1: Programming     | 4   | SCAN 1202 – Tolkien's Nordic Sources                            | 3   |
-| HIST 1011 – European history to 16th cent.  | 3   | PHYS 1140 - Experimental Physics 1                              | 1   |
+| APPM 1350 - Calculus 1                      | 4   | APPM 1360 - Calculus 2                                          | 4   |
+| PHYS 1110 - Physics for Engineers           | 4   | PHYS 1120 - Physics 2 for Engineers                             | 4   |
+| CSCI 1000 - CS as A Field Of Study          | 1   | CSCI 2270 - Data Structures                                     | 4   |
+| CSCI 1300 - Computer Sci 1: Programming     | 4   | SCAN 1202 - Tolkien's Nordic Sources                            | 3   |
+| HIST 1011 - European history to 16th cent.  | 3   | PHYS 1140 - Experimental Physics 1                              | 1   |
 | PHYS 1400 - Fundamentals of Sci. Inquiry    | 1   |                                                                 |     |
 |                                             | 17  |                                                                 | 16  |
 
 |               Summer Semester               | Hrs |
 |---------------------------------------------|:---:|
-| APPM 2350 – Calculus 3                      | 4   |
-| ECON 2010 – Principles of Microeconomics    | 4   |
-| ECON 2020 – Principles of Macroeconomics    | 4   |
+| APPM 2350 - Calculus 3                      | 4   |
+| ECON 2010 - Principles of Microeconomics    | 4   |
+| ECON 2020 - Principles of Macroeconomics    | 4   |
 |                                             | 12  |
 
 ### 2017-2018
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
-| CSCI 2824 – Discrete Structures             | 3   | APPM 2360 – Intro to Differential Equations and Linear Algebra  | 4   |
-| APPM 3310 – Matrix Methods and Applications | 3   | APPM 3570 - Applied Probability                                 | 3   |
+| CSCI 2400 - Computer Systems                | 4   | CSCI 3104 - Algorithms                                          | 4   |
+| CSCI 2824 - Discrete Structures             | 3   | APPM 2360 - Intro to Differential Equations and Linear Algebra  | 4   |
+| APPM 3310 - Matrix Methods and Applications | 3   | APPM 3570 - Applied Probability                                 | 3   |
 | EHON 1151 - Critical Encounters             | 3   | HUEN 3843 - Harry Potter and the Confict of Being               | 3   |
-| CSCI 3308 – Software Dev & Tools            | 3   | APPM 4120 - Introduction to Operations Research (Elective #1)   | 3   |
+| CSCI 3308 - Software Dev & Tools            | 3   | APPM 4120 - Introduction to Operations Research (Elective #1)   | 3   |
 |                                             | 16  |                                                                 | 17  |
 
-|               Summer Semester               | Hrs |
-|---------------------------------------------|:---:|
-| APPM 4650 – Numerical Analysis (Core #1)    | 3   |
-|                                             | 3   |
+|               Summer Semester                                    | Hrs |
+|------------------------------------------------------------------|:---:|
+| APPM 4650 - Numerical Analysis (Core #1)                         | 3   |
+| GEOG 1011 - Environmental Systems: Landscapes and Water (Online) | 4   |
+|                                                                  | 7   |
 
 ### 2018-2019
 |                Fall Semester                  | Hrs |                         Spring Semester                       | Hrs |
 |-----------------------------------------------|:---:|---------------------------------------------------------------|:---:|
-| CSCI 3202 – Artificial Intelligence (Core #2) | 3   | PHYS 2130 – Physics 3                                         | 3   |
-| CSCI 3155 – Principles of Prog. Languages     | 4   | PHYS 2150 - Experimental Physics 2                            | 1   |
-| APPM 4350 – Fourier Series                    | 3   | APPM 4360 – Complex Variables                                 | 3   |
-| APPM 4560 – Markov Processes                  | 3   | CSCI 4830 – Special Topics in Comp Sci (ML) (Elective #2)     | 3   |
+| CSCI 3202 - Artificial Intelligence (Core #2) | 3   | PHYS 2130 - Physics 3                                         | 3   |
+| CSCI 3155 - Principles of Prog. Languages     | 4   | PHYS 2150 - Experimental Physics 2                            | 1   |
+| APPM 4350 - Fourier Series                    | 3   | APPM 4360 - Complex Variables                                 | 3   |
+| APPM 4560 - Markov Processes                  | 3   | CSCI 4830 - Special Topics in Comp Sci (ML) (Elective #2)     | 3   |
 | CSCI 3302 - Introduction to Robotics (Core #3)| 3   | WRTG 3030 - Writing on Science & Society                      | 3   |
 |                                               |     | CSCI 4302 - Advanced Robotics (Core / Elective #3)            | 3   |
 |                                               | 16  |                                                               | 16  |
@@ -75,9 +76,9 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 4950 - Senior Thesis                      | 4   | CSCI 4950 - Senior Thesis                                    | 4   |
 | CSCI 3100 - Software and Society               | 1   | ECON 3070 - Intermediate Microeconomic Theory                | 3   |
 | CSCI 3434 - Theory of Computation (Core #4)    | 3   | CSCI 4446 - Chaotic Dynamics (Core #6)                       | 3   |
-| CSCI 4555 - Compiler Construction (Core #5)    | 3   | ASTR 1030 - Accelerated Introductory Astronomy 1             | 4   |
+| CSCI 4555 - Compiler Construction (Core #5)    | 3   |                                                              |     |
 | APPM 4440 - Applied Analysis                   | 3   |                                                              |     |
-|                                                | 14  |                                                              | 14  |
+|                                                | 14  |                                                              | 10  |
 
 * **College Total**: 141
 * **IIITDM Transfer Credits**:33
