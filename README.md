@@ -74,7 +74,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                   | Hrs |                         Spring Semester                      | Hrs |
 |------------------------------------------------|:---:|--------------------------------------------------------------|:---:|
 | CSCI 4950 - Senior Thesis                      | 4   | CSCI 4950 - Senior Thesis                                    | 4   |
-| CSCI 3100 - Software and Society               | 1   | ECON 3070 - Intermediate Microeconomic Theory                | 3   |
+| CSCI 3100 - Software and Society               | 1   | EHON 3843 - Critical Encounters 2                            | 3   |
 | CSCI 3434 - Theory of Computation (Core #4)    | 3   | CSCI 4446 - Chaotic Dynamics (Core #6)                       | 3   |
 | CSCI 4555 - Compiler Construction (Core #5)    | 3   |                                                              |     |
 | APPM 4440 - Applied Analysis                   | 3   |                                                              |     |
