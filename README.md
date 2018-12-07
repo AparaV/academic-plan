@@ -50,7 +50,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 2824 - Discrete Structures             | 3   | APPM 2360 - Intro to Differential Equations and Linear Algebra  | 4   |
 | APPM 3310 - Matrix Methods and Applications | 3   | APPM 3570 - Applied Probability                                 | 3   |
 | EHON 1151 - Critical Encounters             | 3   | HUEN 3843 - Harry Potter and the Confict of Being               | 3   |
-| CSCI 3308 - Software Dev & Tools            | 3   | APPM 4120 - Introduction to Operations Research (Elective #1)   | 3   |
+| CSCI 3308 - Software Dev & Tools            | 3   | APPM 5120 - Introduction to Operations Research (Elective #1)   | 3   |
 |                                             | 16  |                                                                 | 17  |
 
 |               Summer Semester                                    | Hrs |
@@ -62,10 +62,10 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Fall Semester                  | Hrs |                         Spring Semester                       | Hrs |
 |-----------------------------------------------|:---:|---------------------------------------------------------------|:---:|
-| PHYS 2130 - Physics 3                         | 3   | CSCI 3202 - Artificial Intelligence (Core #3)                 | 3   |
+| PHYS 2130 - Physics 3                         | 3   | APPM 4/5720 - Randomized Algorithms                           | 3   |
 | CSCI 3155 - Principles of Prog. Languages     | 4   | PHYS 2150 - Experimental Physics 2                            | 1   |
 | APPM 4350 - Fourier Series                    | 3   | APPM 4360 - Complex Variables                                 | 3   |
-| APPM 4560 - Markov Processes                  | 3   | CSCI ???? - Machine Learning - Chris Ketelsen (Elective #2)   | 3   |
+| APPM 4560 - Markov Processes                  | 3   | CSCI 4/5622 - Machine Learning (Core #3)                      | 3   |
 | CSCI 4502 - Data Mining (Core #2)             | 3   | HUEN 3100 - Humanities for Engineers (Writing)                | 3   |
 |                                               |     | CSCI 4446 - Chaotic Dynamics (Core #4)                        | 3   |
 |                                               | 16  |                                                               | 16  |
@@ -76,9 +76,10 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 4950 - Senior Thesis                         | 4   | CSCI 4950 - Senior Thesis                                    | 4   |
 | CSCI 3100 - Software and Society                  | 1   | EHON 3843 - Critical Encounters 2                            | 3   |
 | CSCI 3434 - Theory of Computation (Core #5)       | 3   | CSCI ???? - ???? (Elective #3)                               | 3   |
-| CSCI 4576 - High Performance Computing (Core #6)  | 4   |                                                              |     |
-| APPM 4440 - Applied Analysis                      | 3   |                                                              |     |
-|                                                   | 15  |                                                              | 10  |
+| CSCI 5352 - Network Analysis (Elective #2)        | 3   | APPM 4450 - Applied Analysis 2                               | 3   |
+| APPM 4440 - Applied Analysis                      | 3   | CSCI 3202 - Artificial Intelligence (Core #6)                | 3   |
+| STAT 4/5520 - Math Stats                          | 3   |                                                              |     |
+|                                                   | 17  |                                                              | 16  |
 
 * **College Total**: 141
 * **IIITDM Transfer Credits**:33
