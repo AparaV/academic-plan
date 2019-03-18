@@ -62,7 +62,7 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Fall Semester                  | Hrs |                         Spring Semester                       | Hrs |
 |-----------------------------------------------|:---:|---------------------------------------------------------------|:---:|
-| PHYS 2130 - Physics 3                         | 3   | APPM 4720 - Randomized Algorithms                             | 3   |
+| PHYS 2130 - Physics 3                         | 3   | APPM 4720 - Randomized Algorithms (Elective #2)               | 3   |
 | CSCI 3155 - Principles of Prog. Languages     | 4   | PHYS 2150 - Experimental Physics 2                            | 1   |
 | APPM 4350 - Fourier Series                    | 3   | APPM 4360 - Complex Variables                                 | 3   |
 | APPM 4560 - Markov Processes                  | 3   | CSCI 5622 - Machine Learning (Core #3)                        | 3   |
@@ -75,10 +75,10 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------------|:---:|--------------------------------------------------------------|:---:|
 | CSCI 4950 - Senior Thesis                         | 4   | CSCI 4950 - Senior Thesis                                    | 4   |
 | CSCI 3100 - Software and Society                  | 1   | EHON 3843 - Critical Encounters 2                            | 3   |
-| CSCI 3434 - Theory of Computation (Core #5)       | 3   | CSCI ???? - ???? (Elective #3)                               | 3   |
-| CSCI 5352 - Network Analysis (Elective #2)        | 3   | APPM 4450 - Applied Analysis 2                               | 3   |
+| CSCI 3434 - Theory of Computation (Core #5)       | 3   | APPM ???? - ????                                             | 3   |
+| CSCI 5352 - Network Analysis (Elective #3)        | 3   | APPM 4450 - Applied Analysis 2                               | 3   |
 | APPM 4440 - Applied Analysis                      | 3   | CSCI 3202 - Artificial Intelligence (Core #6)                | 3   |
-| STAT 5530 - Advanced Mathematical Statistics      | 3   |                                                              |     |
+| STAT 4520 - Mathematical Statistics               | 3   |                                                              |     |
 |                                                   | 17  |                                                              | 16  |
 
 * **College Total**: 141
